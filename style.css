@@ -44,11 +44,11 @@ a{
     list-style: none;
     text-decoration: none;
     border-radius: .5em;
-    padding: 1em 3em;
-    gap: 5px;
+    padding: 1em 2em;
+    gap: 1em;
     font-family: var(--p-fonte);
     font-weight: bold;
-    margin-left: 50px;
+    margin-left: 20px;
     transition: 1s;
 }
 
